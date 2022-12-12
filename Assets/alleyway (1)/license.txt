@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alleyway
+* source:	https://sketchfab.com/3d-models/alleyway-32236b01e24447d79c1be2479eebe0d2
+* author:	ranavarro (https://sketchfab.com/ranavarro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alleyway" (https://sketchfab.com/3d-models/alleyway-32236b01e24447d79c1be2479eebe0d2) by ranavarro (https://sketchfab.com/ranavarro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
