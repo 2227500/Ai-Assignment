@@ -9,6 +9,28 @@ tags:
 ---
 ............ #line:0d8804b 
 
-How can I help you? #line:0c23e0d 
+Can I help you? #line:0c23e0d 
+
+-> Yes #line:0daac3c 
+    <<jump INeedHelp>>
+
+-> No #line:01405ab 
+    <<jump NoNeedHelp>>
+
+===
+
+title: INeedHelp
+tags:
+---
+
+How can I help you? #line:075dc32 
+
+===
+
+title: NoNeedHelp
+tags:
+---
+
+Goodbye #line:0e00299 
 
 ===
