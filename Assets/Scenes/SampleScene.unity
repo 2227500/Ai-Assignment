@@ -797,12 +797,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bec29c0a230741bdac901dba8da47ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  yarnProject: {fileID: 0}
+  yarnProject: {fileID: 7545569452688597077, guid: 319c294afdf511344a02049b67d7d394,
+    type: 3}
   _variableStorage: {fileID: 3831113771221513562}
   dialogueViews:
   - {fileID: 3427215000839240129}
   - {fileID: 8823395146122296151}
-  startNode: Start
+  startNode: StartSection
   startAutomatically: 1
   runSelectedOptionAsLine: 0
   lineProvider: {fileID: 0}
@@ -852,7 +853,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 610c541718d694070a21327d1ae62e75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  showDebug: 0
+  showDebug: 1
   debugTextView: {fileID: 0}
 --- !u!1 &4540255441723930916
 GameObject:
